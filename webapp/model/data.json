@@ -1,0 +1,44 @@
+{
+    	"EmployeeList":[
+		{
+			"empId":101,
+            "empName":"Thanikesh",
+            "empSal":100000
+		},
+			{
+			"empId":102,
+			"empName":"Ram",
+            "empSal":300000
+		},
+			{
+			"empId":103,
+			"empName":"Raju",
+            "empSal":400000
+		},
+			{
+			"empId":104,
+			"empName":"Rajesh",
+            "empSal":200000
+        },
+        {
+			"empId":105,
+            "empName":"Lokesh",
+            "empSal":100000
+		},
+			{
+			"empId":106,
+			"empName":"Ramraji",
+            "empSal":300000
+		},
+			{
+			"empId":107,
+			"empName":"Mohan",
+            "empSal":400000
+		},
+			{
+			"empId":108,
+			"empName":" Khanna",
+            "empSal":200000
+		}
+		]
+}
